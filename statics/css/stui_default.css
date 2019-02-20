@@ -66,7 +66,7 @@ body{padding-top:81px}
 
 /* player */
 .stui-player{padding: 20px 0;background-color: #333;}
-.stui-player__item{ padding: 20px 20px 20px 30px; position: relative;}
+.stui-player__item{ padding: 20px 20px 20px 20px; position: relative;}
 .stui-player__detail{ margin-top: 20px;}
 .stui-player__detail .more-btn{ float: right; padding-top: 10px;}
 .stui-player__detail .more-btn li{ display: inline-block; margin-left: 10px;}
