@@ -308,7 +308,7 @@ textarea.form-control{ height: auto;}
 .tab-content>.tab-pane,.carousel-inner>.item{ display: none;}
 .tab-content>.tab-pane.active,.carousel-inner>.item.active{ display: block;}
 .dropdown{ position: relative;}
-.dropdown-menu{display: none; position:absolute; top:100%; left:-80%; z-index:1000; padding: 10px 0; border-radius: 2px;}
+.dropdown-menu{display: none; position:absolute; top:100%; left:-10%; z-index:1000; padding: 10px 0; border-radius: 2px;}
 .dropdown-menu:before{ content:" "; width:10px; height:10px; -webkit-transform:rotate(-45deg); -ms-transform:rotate(-45deg); transform:rotate(-45deg); border-width:1px 1px 0 0; position: absolute; top:-6px; right: 20px; border-style: solid;}
 .dropdown-menu>li>a{display: block; padding: 6px 20px; text-align: center;}
 .open>.dropdown-menu {display: block;}
